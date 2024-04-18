@@ -1,0 +1,52 @@
+[
+    {
+       "id": 1,
+       "nombre": "Aros Roronoa Zoro",
+       "precio": 1500
+       },
+    {
+       "id": 2,
+       "nombre": "Aros Boa Hancock",
+       "precio": 1500
+       },
+    {
+       "id": 3,
+       "nombre": "Aros Trafalgar Law",
+       "precio": 1500
+       },
+    {
+       "id": 4,
+       "nombre": "Buzo Monkey D. Luffy Wanted Poster",
+       "precio": 2000
+       },
+    {
+       "id": 5,
+       "nombre": "Buzo Luffy Sanji Zoro Nami y Robin",
+       "precio": 2000
+       },
+    {
+       "id": 6,
+       "nombre": "Remera Mugiwara Pirates",
+       "precio": 3000
+       },
+    {
+       "id": 7,
+       "nombre": "Remera Tony Tony Chopper Wanted Poster",
+       "precio": 3000
+       },
+    {
+       "id": 8,
+       "nombre": "Collar Perlas Portgas D. Ace",
+       "precio": 1000
+       },
+    {
+       "id": 9,
+       "nombre": "Collar Luffy Gear 5",
+       "precio": 1000
+       },
+    {
+       "id": 10,
+       "nombre": "Llavero Espadas Roronoa Zoro",
+       "precio": 3500
+       }
+]
